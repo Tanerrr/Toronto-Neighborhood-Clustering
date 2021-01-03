@@ -1,5 +1,5 @@
 # Toronto-Neighborhood-Clustering
-Toronto Neighborhood Clustering
+
 
 In this project, I explore, segment, and cluster the neighborhoods in the city of Toronto.
 
